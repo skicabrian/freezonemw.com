@@ -222,7 +222,7 @@ h6 {
      background-color: #f7f7f7;
 }
  .bg-theme {
-     background-color: #e22a31;
+     background-color: #237F3F;
 }
  .text-light h1, 
  .text-light h2, 
@@ -272,7 +272,7 @@ h6 {
      z-index: -1;
 }
  .shadow.theme::after {
-     background: #e22a31 none repeat scroll 0 0;
+     background: #338a4d none repeat scroll 0 0;
      content: "";
      height: 100%;
      left: 0;

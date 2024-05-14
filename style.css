@@ -799,7 +799,7 @@ h6 {
 }
 
 .site-heading h2::before {
-  background: #FF1949 none repeat scroll 0 0;
+  background: #237F3F none repeat scroll 0 0;
   bottom: 0;
   content: "";
   height: 2px;
@@ -810,7 +810,7 @@ h6 {
 }
 
 .site-heading h2::after {
-  background: #FF1949 none repeat scroll 0 0;
+  background: #237F3F none repeat scroll 0 0;
   bottom: 0;
   content: "";
   height: 2px;

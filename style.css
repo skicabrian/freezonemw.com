@@ -2701,6 +2701,10 @@ footer .info .meta-title a {
     margin-top: 40px;
     padding-top: 30px;
 }
+.iconimage{
+    width: 10em;
+    color:#338a4d;
+}
 
  .footer-bottom .col-md-6 {
      padding: 0;
